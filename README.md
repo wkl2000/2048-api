@@ -1,4 +1,7 @@
 # 2048-api
+
+我的工作包含在my_work中
+
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
 # Code structure
